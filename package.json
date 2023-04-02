@@ -2,7 +2,7 @@
     "name": "ExploreBud",
     "description": "A clean, minimal default theme for the Explorebud based on casper",
     "demo": "https://demo.ghost.io",
-    "version": "5.9.8",
+    "version": "5.9.9",
     "engines": {
         "ghost": ">=4.47.4"
     },
