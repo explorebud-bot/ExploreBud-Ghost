@@ -228,7 +228,7 @@ body:not(.has-cover) .site-header-content:not(.left-aligned) {
 }
 
 .has-cover :is(.site-logo, .site-title) + .site-description {
-    font-size: 2.4rem;
+    font-size: 2.8rem;
 }
 
 .has-cover .site-header-content.left-aligned :is(.site-logo, .site-title) + .site-description {
@@ -250,9 +250,10 @@ body:not(.has-cover) .site-header-content:not(.left-aligned) {
     }
     .site-description {
         font-size: 1.9rem !important;
+        margin-bottom:40px;
     }
     .site-logo + .site-description {
-        margin-top: 12px !important;
+        margin-top: 0px !important;
     }
     .site-title + .site-description {
         margin-top: 4px !important;
