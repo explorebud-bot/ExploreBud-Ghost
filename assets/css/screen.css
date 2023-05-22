@@ -253,7 +253,7 @@ body:not(.has-cover) .site-header-content:not(.left-aligned) {
         margin-bottom:40px;
     }
     .site-logo + .site-description {
-        margin-top: 0px !important;
+        margin-top: 0px;
     }
     .site-title + .site-description {
         margin-top: 4px !important;
